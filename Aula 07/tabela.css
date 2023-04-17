@@ -1,0 +1,29 @@
+body{
+    background-color: #fdfdfd;
+
+}
+
+table{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    border-spacing: 0px;
+
+}
+
+
+table, td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+
+#cabeçalho{
+    background-color:green;
+    color: #fdfdfd;
+}
+
+#linha1{
+    background-color:green;
+    color: #fdfdfd;
+}
